@@ -13,8 +13,8 @@ During the historic Championship Season, Russell Wilson said "The Seperation is 
 
 
 ## Where is the data comming from?
--[NFL Fantasy Football API](https://api.fantasy.nfl.com/)
--[Yahoo Fantasy Sports Developer Network](https://developer.yahoo.com/fantasysports/)
+[NFL Fantasy Football API](https://api.fantasy.nfl.com/)
+[Yahoo Fantasy Sports Developer Network](https://developer.yahoo.com/fantasysports/)
 
 
 
