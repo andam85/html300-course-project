@@ -5,9 +5,9 @@ This tool will be useful for myself and others who are interested in planning th
 
 
 Reason:
-Every year I spend about a couple of weeks thinking about how I want to structure my Fantasy Football Season for the upcoming season.
+Every year I spend about a couple of weeks thinking about how I want to structure my fantasy football team for the upcoming season.
 Typically I would do my planning on a simple excel worksheet and do a rough budget on how much that team would cost (in Auction dollars).
-It's been sophisticated enough for me to fully scenariolize the potential of the team because I never pulled in enough data to do a comprehensive analysis.
+It's never been sophisticated enough for me to fully scenariolize the potential of the team because I never pulled in enough data to do a comprehensive analysis.
 I want the tool to be able to also point out less thought of statistics like week-to-week scoring potential or scoring drop-off caused by BYE weeks.
 It would also be great if my tool allowed users to optimize their team by giving them an overall team scoring potential based on the players they want to draft.
 The two APIs I have found so far that are free to the public to use and houses data I need are: https://api.fantasy.nfl.com/ and https://developer.yahoo.com/fantasysports/.
